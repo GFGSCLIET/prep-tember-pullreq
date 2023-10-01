@@ -1,6 +1,6 @@
 Name:M.Ravi Praveen
-Year of Study:3 
+Year of Study:3 rd year
 Department:CSE
 Section:B
 Hobbies: reading books, watching movies 
-Technical Skills:C,Java, Python,HTML,CSS,
+Technical Skills:C,Java, Python,HTML,CSS
