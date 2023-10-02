@@ -1,0 +1,6 @@
+Name: Tejasree
+Year of Study: 3rd year
+Department: ECE
+Section: B
+Hobbies: Drawing,Reading books
+Technical Skills: C,Python, HTML, CSS
