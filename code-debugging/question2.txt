@@ -1,0 +1,18 @@
+Questions 2: Check whether the given program can find greatest of 3 numbers.
+
+Input: 2 8 1
+Output: 8
+
+Given Code:
+#include < stdio.h >
+  int main(){
+  int n1,n2,n3;
+  scanf("%d %d %d",&n1,&n2,&n3);
+  if(n1>n2) && (n1>n3)
+    printf("%d",n1);
+  elseif ( n2>n3)
+    printf("%d",n2);
+  else
+    printf("%d",n3);
+  return 0;
+}     
