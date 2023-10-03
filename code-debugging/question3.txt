@@ -1,0 +1,24 @@
+Questions 4: The function patternPrint(int n) is supposed to print n number of lines in the following pattern:
+for n=4 pattern should be
+1
+1 1
+1 1 1
+1 1 1 1
+
+The function compiles successfully but fails to return the desired results due to logical errors. Your task is to debug the program to pass all the test cases.
+
+
+Given Code:
+void patternPrint(int n)
+{
+ int print=1,i,j;
+ for(i=1;i<=n;i++)
+ {
+  for(j=1;j<=i;j++)
+  {
+  printf("%d",print);
+  printf("\n");
+  }
+ }
+}     
+

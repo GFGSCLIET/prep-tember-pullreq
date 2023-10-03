@@ -1,0 +1,17 @@
+Questions 5: Debug and fix the below code so that it can print the below output.
+
+Output:
+9 8 7 6 5 4 3 2 1 0
+
+Given Code:
+#include < stdio.h >  
+int main()
+{
+ int x = 10;
+ do
+ {
+ printf("%d ",x);
+ x--;
+ }while(x >= 0);
+ return 0;
+}    
