@@ -1,14 +1,6 @@
 # prep-tember-pullreq
 
-- Create a file named "your_name.txt"
-- Now make a pull request to this repo
-- FCFS , First 3 guys who sends pull request will have a chance to win swags from GeeksForGeeks Student Chapter - LIET
-
-## your_name.txt template
-
-- Name:
-- Year of Study:
-- Department:
-- Section:
-- Hobbies:
-- Technical Skills:
+- Hey geeks , now this repo is open for Hacktoberfest
+- contribute your own i.e.., make a file and upload or else change content in any file or do anythinh you like
+- Remember to make atleast 4 PR's successfully throughout the month of October
+- What are u waiting for ? attack this repo
