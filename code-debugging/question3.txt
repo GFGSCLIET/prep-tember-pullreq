@@ -1,4 +1,4 @@
-Questions 4: The function patternPrint(int n) is supposed to print n number of lines in the following pattern:
+Questions 3: The function patternPrint(int n) is supposed to print n number of lines in the following pattern:
 for n=4 pattern should be
 1
 1 1
