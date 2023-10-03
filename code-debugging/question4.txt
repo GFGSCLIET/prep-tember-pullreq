@@ -1,0 +1,18 @@
+Questions 4: Correct the syntax error in the given code without modifying the logic to get the below output.
+
+Output:
+Choice is 1
+
+Given Code:
+#include < stdio.h >
+  int main(){
+  float x=1.1;
+  switch(x){
+   case1: printf("Choice is 1");
+    break;
+   default: printf("Invalid Choice");
+    break;
+   }
+return 0;
+}        
+
