@@ -1,6 +1,0 @@
- Name:P.Lohith
-Year of study:2nd year
-Department:CSE
-Section:C
-Hobbies:Eating,Sleeping
-Techinical Skills:C,HTML,CSS
