@@ -12,7 +12,6 @@ void patternPrint(int n)
         printf("\n");
     }
 }
-
 int main()
 {
     int n = 4; 
