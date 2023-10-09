@@ -8,4 +8,4 @@ File Dialog
 The filedialog() function from tkinter offers the user a set of dialogs or functions which would be necessary when dealing with files. 
 File dialogs help you open, save files or directories. This is the type of dialog you get when you click file, open. This dialog comes out of the module, there’s no need to write all the code manually.
 
-Create a GUI window by usinf Tk() function.
+Create a GUI window by using Tk() function.
