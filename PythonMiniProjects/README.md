@@ -3,3 +3,4 @@
 | Contributor | Project Title |
 | ------- | ------ |
 | Hemanth | Calendar GUI |
+| Mani Sankar Chintagunti| Snake Game |
