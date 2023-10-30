@@ -3,3 +3,6 @@
 | Contributor | Project Title |
 | ------- | ------ |
 | Hemanth | Calendar GUI |
+| Mani Sankar Chintagunti| Snake Game |
+| Mani Sankar Chintagunti| Simple Dictionary App|
+| Mani Sankar Chintagunti| Fighting Game |
